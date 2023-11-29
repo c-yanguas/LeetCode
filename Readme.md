@@ -1,5 +1,6 @@
 # LeetCode problems
 Here is a list of some LeetCode problems that I have been solving in Python
+
 Legend:
 - 🟥 ➡ For **Hard** problems
 - 🟨 ➡ For **Medium** problems
